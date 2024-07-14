@@ -6,7 +6,7 @@
 throw 変数名;
 
 例)
-String msg = "たくわんこ"
+String msg = "たかはしさん"
 lilegalArgumentException x
 = new lilegalArgumentException(msg);
 throw x;
